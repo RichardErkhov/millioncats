@@ -4,3 +4,4 @@
 This dataset is a generated dataset (using https://github.com/adriansahlman/stylegan2_pytorch).
 This dataset contains a million of cats.
 Want something else ? Write it to <a href='https://github.com/RichardErkhov/suggestions'>RichardErkhov/suggestions </a> project.
+You can find <a href='http://t.me/aiforcats_bot'> <p> telegram bot here</p> </a>
